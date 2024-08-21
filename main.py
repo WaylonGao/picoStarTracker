@@ -1,3 +1,8 @@
+"""
+Raspberry pi pico based DSLR star tracker
+Waylon Gao 2024
+https://github.com/WaylonGao/picoStarTracker
+"""
 import machine
 from machine import Pin
 import utime
